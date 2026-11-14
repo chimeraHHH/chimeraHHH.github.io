@@ -66,11 +66,9 @@ redirect_from:
 <p><strong>Self-Attention-Based High-Throughput Prediction Platform for Defect Properties in Two-Dimensional Materials</strong><br><span>Approved as a National-Level Key Project under the Undergraduate Innovation and Entrepreneurship Training Program (top 1% university-wide).</span></p>
 <p><strong>Sophos</strong><br><span>An agent-based educational animation engine that turns math and physics concepts into structured, animated explanations.</span></p>
 <p><strong><a href="https://github.com/chimeraHHH/verso-ai" target="_blank" rel="noopener noreferrer">VersoAI</a></strong><br><span>An AI storytelling workflow connecting script ideation, storyboard generation, and video creation.</span></p>
-<p><strong>Syncea</strong><br><span>An interactive installation connecting jellyfish motion sensing, generative music, and wearable interaction.</span></p>
+<p><strong><a href="https://gallery.adventure-x.cn/projects/cmrzsxh9g001s02jirutu91me" target="_blank" rel="noopener noreferrer">Syncea</a></strong><br><span>An interactive installation connecting jellyfish motion sensing, generative music, and wearable interaction.</span></p>
 <ul>
   <li><a href="https://github.com/chimeraHHH/materials_screening_agent_hermes" target="_blank" rel="noopener noreferrer"><strong>Materials Screening Agent</strong></a> — <span>Evidence-oriented public-database retrieval and materials research workflows.</span></li>
-  <li><a href="https://github.com/chimeraHHH/gpudeck-cli" target="_blank" rel="noopener noreferrer"><strong>GPUDeck CLI</strong></a> — <span>A command-line interface for GPU reservations and machine-readable workflows.</span></li>
-  <li><a href="https://github.com/chimeraHHH/OPEN-WHU" target="_blank" rel="noopener noreferrer"><strong>OPEN-WHU</strong></a> — <span>An open collection of physics and electronics course resources at Wuhan University.</span></li>
 </ul>
 
 <footer class="site-credit">© 2026 Yiming Hua · <span>Built with</span> <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a> (MIT License).</footer>
