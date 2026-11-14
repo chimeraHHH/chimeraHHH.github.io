@@ -54,12 +54,27 @@ redirect_from:
   <li><strong>Second Prize</strong>, Liu Daoyu Creative Learning Award, Wuhan University, 2025.</li>
 </ul>
 
-<h1 id="education">📖 Education</h1>
+<h1 id="education">📖 Education &amp; Title</h1>
 <div class="experience">
   <img class="institution-logo" src="/images/whu.png" alt="Wuhan University logo" width="43" height="43">
   <div>
     <div class="experience-heading"><strong>Wuhan University</strong><span>2024 – Present</span></div>
     <p><span>B.Eng. student in Microelectronics Science and Engineering</span><br><span>School of Physics and Technology</span></p>
+  </div>
+</div>
+
+<div class="experience">
+  <img class="institution-logo" src="/images/wuhan-hackathon-logo.jpg" alt="Wuhan Hackathon logo" width="43" height="43">
+  <div>
+    <div class="experience-heading"><strong>Wuhan Hackathon</strong><span>2026 – Present</span></div>
+    <p>Founder</p>
+  </div>
+</div>
+<div class="experience">
+  <img class="institution-logo" src="/images/whu-blockchain-association-logo.png" alt="Wuhan University Blockchain Association logo" width="43" height="43">
+  <div>
+    <div class="experience-heading"><strong>Wuhan University Blockchain Association</strong><span>2025 – Present</span></div>
+    <p>President</p>
   </div>
 </div>
 
