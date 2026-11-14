@@ -32,26 +32,11 @@ redirect_from:
 
 <h1 id="publications">📝 Publications &amp; Manuscripts</h1>
 <div class="paper-box" id="hort">
-  <div class="paper-box-image"><div><img src="/images/radar-cover.svg" alt="Illustration of radar sensing and occupancy forecasting" width="100%" loading="lazy"></div></div>
+  <div class="paper-box-image"><div><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer" title="View the complete HoRT method figure"><img src="/images/hort-main.png" alt="HoRT method overview: sparse decoder and horizon-wise radar transport and fusion" width="100%" loading="lazy"></a></div></div>
   <div class="paper-box-text">
     <p class="paper-title">HoRT: Horizon-wise Radar Transport for Camera–Radar 4D Occupancy Forecasting</p>
     <p class="paper-description">Exploring how radar range and Doppler measurements can complement visual scene representations for future 3D occupancy prediction, with radar evidence aligned to different forecasting horizons.</p>
-  </div>
-</div>
-<div class="paper-box">
-  <div class="paper-box-image"><div><img src="/images/anamorphic-cover.svg" alt="Geometric illustration of a cylindrical mirror and an anamorphic pattern" width="100%" loading="lazy"></div></div>
-  <div class="paper-box-text">
-    <p class="paper-title">Inverse ray tracing and semantic-constrained diffusion for cylindrical mirror anamorphic pattern design</p>
-    <p class="paper-authors"><strong>Yiming Hua</strong></p>
-    <p><em>OIDL 2026</em> · <span>Accepted</span></p>
-  </div>
-</div>
-<div class="paper-box">
-  <div class="paper-box-image"><div><img src="/images/metrology-cover.svg" alt="Illustration of optical measurements of a layered semiconductor film" width="100%" loading="lazy"></div></div>
-  <div class="paper-box-text">
-    <p class="paper-title">Robust Optical Metrology for Semiconductor Films via Adaptive Modeling and Two-Stage Optimization</p>
-    <p class="paper-authors"><strong>Yiming Hua</strong>, Chengye Chai</p>
-    <p><em>ICMMAP 2025</em> · <span>Accepted</span></p>
+    <p><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer">Full Figure ↗</a></p>
   </div>
 </div>
 

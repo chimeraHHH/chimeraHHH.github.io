@@ -25,6 +25,6 @@ Open http://127.0.0.1:4000. GitHub Actions builds the rendered site on every bra
 
 ## Content and attribution
 
-HoRT has a title and a short introduction only. Its full manuscript and submission status are not distributed here. Conference papers retain their documented acceptance labels. Thumbnails are illustrative covers, not experimental results.
+HoRT is presented with its title, short introduction, and the existing manuscript method figure. The figure can be opened at full resolution. Its full manuscript and submission status are not distributed here.
 
 AcadHomepage and its bundled resources retain the upstream license and notices. See `LICENSE` and `UPSTREAM.md`.

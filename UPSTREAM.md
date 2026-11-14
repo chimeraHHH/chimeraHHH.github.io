@@ -9,6 +9,6 @@
 - Layout reference: https://florian-yang.github.io/ . Reference-specific styling is implemented in `assets/css/custom.css`.
 - Wuhan University emblem: institutional logo reproduced from the reference homepage's `whu.png`.
 - Profile photo: supplied local portfolio material.
-- Paper covers: original illustrative SVGs; not paper figures or experimental data.
+- HoRT image: PNG rendering of the current manuscript method figure (`fig/hort_sensor_transport.svg`), preserving the complete original figure.
 
 AcadHomepage credits Font Awesome (SIL OFL 1.1 and MIT), Minimal Mistakes (MIT), and AcademicPages (MIT). Their bundled notices are retained with the template sources.
