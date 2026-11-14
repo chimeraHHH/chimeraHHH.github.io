@@ -26,7 +26,6 @@ redirect_from:
     <div class="experience-heading"><strong>Wuhan University</strong></div>
     <p class="experience-role">Project lead · Mentor: Prof. Sheng Chang</p>
     <p>National Undergraduate Innovation Training Program (Key Project): Self-Attention-Based High-Throughput Prediction Platform for Defect Properties in Two-Dimensional Materials.</p>
-    <p><a href="https://github.com/chimeraHHH/2d-defect-dast" target="_blank" rel="noopener noreferrer">Project code ↗</a></p>
   </div>
 </div>
 
