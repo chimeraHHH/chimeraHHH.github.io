@@ -35,7 +35,8 @@ redirect_from:
   <div class="paper-box-image"><div><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer" title="View the complete HoRT method figure"><img src="/images/hort-main.png" alt="HoRT method overview: sparse decoder and horizon-wise radar transport and fusion" width="100%" loading="lazy"></a></div></div>
   <div class="paper-box-text">
     <p class="paper-title">HoRT: Horizon-wise Radar Transport for Camera–Radar 4D Occupancy Forecasting</p>
-    <p><em>CVPR 2027</em> · Under Review</p>
+    <p class="paper-authors"><strong>Yiming Hua</strong>, Ning Wang, Wei Wang</p>
+    <p><em>CVPR 2027</em> · Under Review · <strong>First Author</strong></p>
     <p class="paper-description">Exploring how radar range and Doppler measurements can complement visual scene representations for future 3D occupancy prediction, with radar evidence aligned to different forecasting horizons.</p>
     <p><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer">Full Figure ↗</a></p>
   </div>
