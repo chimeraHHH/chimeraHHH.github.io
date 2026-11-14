@@ -64,9 +64,16 @@ redirect_from:
 </div>
 
 <div class="experience">
+  <img class="institution-logo" src="/images/cambridge-university-logo.svg" alt="University of Cambridge logo" width="43" height="43">
+  <div>
+    <div class="experience-heading"><strong>University of Cambridge</strong><span>Jan 2026</span></div>
+    <p>Artificial Intelligence Technology Exchange</p>
+  </div>
+</div>
+<div class="experience">
   <img class="institution-logo" src="/images/wuhan-hackathon-logo.jpg" alt="Wuhan Hackathon logo" width="43" height="43">
   <div>
-    <div class="experience-heading"><strong>Wuhan Hackathon</strong><span>2026 – Present</span></div>
+    <div class="experience-heading"><strong><a href="https://www.dxh.gov.cn/XWZX/LKGYW/202610/t20261009_2858156.shtml" target="_blank" rel="noopener noreferrer">Wuhan Hackathon</a></strong><span>2026 – Present</span></div>
     <p>Founder</p>
   </div>
 </div>

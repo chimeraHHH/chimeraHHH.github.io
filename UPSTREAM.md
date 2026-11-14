@@ -8,6 +8,7 @@
 - The bundled navigation script uses bounded width measurement to support viewport changes without recursive overflow errors; its source and distribution are kept in sync.
 - Layout reference: https://florian-yang.github.io/ . Reference-specific styling is implemented in `assets/css/custom.css`.
 - Wuhan University emblem: institutional logo reproduced from the reference homepage's `whu.png`.
+- University of Cambridge logo: unmodified SVG from `https://www.cam.ac.uk/themes/custom/fresh/images/interface/cambridge_university2.svg`.
 - Profile photo: supplied local portfolio material.
 - Wuhan Hackathon and Wuhan University Blockchain Association logos: supplied by the site owner.
 - HoRT image: PNG rendering of the current manuscript method figure (`fig/hort_sensor_transport.svg`), preserving the complete original figure.
