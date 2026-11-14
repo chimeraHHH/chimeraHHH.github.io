@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<title>{{ site.title | escape }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ site.seo_description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="author" content="Yiming Hua / 华一明">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="{{ site.title | escape }}">
+<meta property="og:description" content="{{ site.seo_description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ site.author.avatar | absolute_url }}">
+<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';</script>
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">

@@ -1,30 +1,31 @@
 # Yiming Hua · Academic Homepage
 
-A lightweight, bilingual academic homepage for GitHub Pages, built with HTML, CSS, and JavaScript. No package installation or build process is required.
+Built with the actual [AcadHomepage Jekyll template](https://github.com/RayeRen/acad-homepage.github.io), customized to follow [Jianchun Yang's homepage](https://florian-yang.github.io/).
 
-## Local preview
+Live site: https://chimerahhh.github.io/
+
+## Update content
+
+- `_config.yml`: profile, email, affiliation, and site metadata.
+- `_pages/about.md`: English content and section structure.
+- `_data/navigation.yml`: navigation links.
+- `script.js`: Chinese translations and language preference.
+- `assets/css/custom.css`: reference-aligned additions to the template.
+- `assets/css/main.scss` and `_sass/`: original AcadHomepage theme.
+
+## Preview locally
+
+Install Ruby and Bundler, then run:
 
 ```sh
-python3 -m http.server 8765
+bundle install
+bundle exec jekyll serve
 ```
 
-Open http://localhost:8765 in your browser.
+Open http://127.0.0.1:4000. GitHub Actions builds the rendered site on every branch; only `main` deploys to GitHub Pages.
 
-## Edit content
+## Content and attribution
 
-- `index.html`: English content and page structure.
-- `script.js`: Chinese translations, language preference, and navigation.
-- `styles.css`: typography, colors, desktop and mobile layouts.
-- `assets/yiming-hua.jpg`: profile photo.
+HoRT has a title and a short introduction only. Its full manuscript and submission status are not distributed here. Conference papers retain their documented acceptance labels. Thumbnails are illustrative covers, not experimental results.
 
-Use `data-i18n` keys for translated text. Keep English text in the HTML and the matching Chinese text in `script.js`.
-
-## Publish
-
-This repository targets `https://chimeraHHH.github.io/`. In repository Settings → Pages, select **GitHub Actions** as the source. The included workflow deploys only the public HTML, CSS, JavaScript, and assets when `main` changes.
-
-## Content notes
-
-HoRT is presented with its title and a short project description. The homepage does not distribute its manuscript or display submission status. Conference papers are labeled as accepted; no indexing claim is made. Project thumbnails are original illustrative graphics, not experimental results.
-
-The layout takes inspiration from [Jianchun Yang's academic homepage](https://florian-yang.github.io/). Implementation and illustrations are original.
+AcadHomepage and its bundled resources retain the upstream license and notices. See `LICENSE` and `UPSTREAM.md`.

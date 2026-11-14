@@ -1,0 +1,18 @@
+{% assign author = site.author %}
+<div itemscope itemtype="https://schema.org/Person" class="profile_box">
+  <div class="author__avatar">
+    <img src="{{ author.avatar | relative_url }}" alt="Portrait of {{ author.name }}" width="175" height="175" fetchpriority="high">
+  </div>
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">{{ author.name }} <span class="chinese-name" lang="zh-CN">{{ author.chinese_name }}</span></h3>
+    <p class="author__bio" data-i18n="profileBio">{{ author.bio }}</p>
+  </div>
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      <li data-i18n="school">{{ site.description }}</li>
+      <li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span data-i18n="location">{{ author.location }}</span></li>
+      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    </ul>
+  </div>
+</div>

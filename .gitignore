@@ -3,3 +3,8 @@ node_modules/
 .playwright/
 test-results/
 *.log
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/

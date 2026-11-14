@@ -1,0 +1,52 @@
+title: "Yiming Hua | Wuhan University | 华一明·武汉大学"
+description: "School of Physics and Technology"
+seo_description: "Yiming Hua (华一明), undergraduate at Wuhan University. Physical AI, occupancy world models, multimodal perception, and AI for Science."
+repository: "chimeraHHH/chimeraHHH.github.io"
+url: "https://chimerahhh.github.io"
+baseurl: ""
+timezone: Asia/Shanghai
+encoding: utf-8
+author:
+  name: "Yiming Hua"
+  chinese_name: "华一明"
+  avatar: "/assets/yiming-hua.jpg"
+  bio: "Undergraduate · Wuhan University"
+  location: "Wuhan, China"
+  email: "cnhym@foxmail.com"
+  github: "chimeraHHH"
+include: ["_pages"]
+exclude:
+  - .github
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - UPSTREAM.md
+  - node_modules
+  - vendor
+  - run_server.sh
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
