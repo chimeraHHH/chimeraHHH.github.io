@@ -25,6 +25,6 @@ Open http://127.0.0.1:4000. GitHub Actions builds the rendered site on every bra
 
 ## Content and attribution
 
-HoRT is presented with its title, short introduction, and the existing manuscript method figure. The figure can be opened at full resolution. Its full manuscript and submission status are not distributed here.
+HoRT is presented with its title, CVPR 2027 under-review status, short introduction, and the existing manuscript method figure. The figure can be opened at full resolution. Its full manuscript is not distributed here.
 
 AcadHomepage and its bundled resources retain the upstream license and notices. See `LICENSE` and `UPSTREAM.md`.

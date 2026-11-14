@@ -35,6 +35,7 @@ redirect_from:
   <div class="paper-box-image"><div><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer" title="View the complete HoRT method figure"><img src="/images/hort-main.png" alt="HoRT method overview: sparse decoder and horizon-wise radar transport and fusion" width="100%" loading="lazy"></a></div></div>
   <div class="paper-box-text">
     <p class="paper-title">HoRT: Horizon-wise Radar Transport for Camera–Radar 4D Occupancy Forecasting</p>
+    <p><em>CVPR 2027</em> · Under Review</p>
     <p class="paper-description">Exploring how radar range and Doppler measurements can complement visual scene representations for future 3D occupancy prediction, with radar evidence aligned to different forecasting horizons.</p>
     <p><a href="/images/hort-main.png" target="_blank" rel="noopener noreferrer">Full Figure ↗</a></p>
   </div>
@@ -42,6 +43,7 @@ redirect_from:
 
 <h1 id="honors">🎖 Honors &amp; Competitions</h1>
 <ul>
+  <li><strong>Luojia Talent Innovation Scholarship</strong>, Wuhan University, 2026 (one of only three undergraduate recipients university-wide).</li>
   <li><strong>Overall runner-up</strong>, AdventureX 2026 · Syncea.</li>
   <li><strong>National Second Prize</strong>, Milan Design Week China Collegiate Design Exhibition, 2026.</li>
   <li><strong>Most Promising to Continue Award</strong>, Tropic of Cancer Geek Festival, 2026.</li>
