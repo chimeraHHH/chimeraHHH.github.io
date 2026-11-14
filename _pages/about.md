@@ -64,7 +64,7 @@ redirect_from:
 </div>
 
 <div class="experience">
-  <img class="institution-logo" src="/images/cambridge-university-logo.svg" alt="University of Cambridge logo" width="43" height="43">
+  <img class="institution-logo" src="/images/cambridge-coat-of-arms.svg" alt="University of Cambridge coat of arms" width="43" height="43">
   <div>
     <div class="experience-heading"><strong>University of Cambridge</strong><span>Jan 2026</span></div>
     <p>Artificial Intelligence Technology Exchange</p>
