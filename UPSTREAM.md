@@ -8,6 +8,7 @@
 - The bundled navigation script uses bounded width measurement to support viewport changes without recursive overflow errors; its source and distribution are kept in sync.
 - Layout reference: https://florian-yang.github.io/ . Reference-specific styling is implemented in `assets/css/custom.css`.
 - Wuhan University emblem: institutional logo reproduced from the reference homepage's `whu.png`.
+- Fudan University emblem: blue emblem from the official marks page, `https://www.fudan.edu.cn/451/list.htm`, displayed through an SVG viewport around the blue emblem in the supplied institutional artwork.
 - University of Cambridge coat of arms: original shield artwork from `https://www.cam.ac.uk/themes/custom/fresh/images/interface/cambridge_university2.svg`, with the SVG viewport limited to the shield.
 - Profile photo: supplied local portfolio material.
 - Wuhan Hackathon and Wuhan University Blockchain Association logos: supplied by the site owner.

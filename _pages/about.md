@@ -16,7 +16,7 @@ redirect_from:
   <img class="institution-logo" src="/images/whu.png" alt="Wuhan University logo" width="43" height="43">
   <div>
     <div class="experience-heading"><strong>Wuhan University</strong></div>
-    <p class="experience-role">Research project · Physical AI</p>
+    <p class="experience-role">Research Intern · Mentor: Prof. Wei Wang</p>
     <p>Camera–radar perception and occupancy world models, exploring how physical radar measurements can support future scene prediction. Work: HoRT.</p>
   </div>
 </div>
@@ -24,9 +24,19 @@ redirect_from:
   <img class="institution-logo" src="/images/whu.png" alt="Wuhan University logo" width="43" height="43">
   <div>
     <div class="experience-heading"><strong>Wuhan University</strong></div>
-    <p class="experience-role">Project lead · National Undergraduate Innovation Training Program (Key Project)</p>
-    <p>Studying attention-based representations of atomic structures for predicting defect properties in two-dimensional materials, with an emphasis on physical structure, evaluation, and materials screening.</p>
+    <p class="experience-role">Project lead · Mentor: Prof. Sheng Chang</p>
+    <p>National Undergraduate Innovation Training Program (Key Project): Self-Attention-Based High-Throughput Prediction Platform for Defect Properties in Two-Dimensional Materials.</p>
     <p><a href="https://github.com/chimeraHHH/2d-defect-dast" target="_blank" rel="noopener noreferrer">Project code ↗</a></p>
+  </div>
+</div>
+
+<div class="experience">
+  <img class="institution-logo" src="/images/fudan-emblem.svg" alt="Fudan University emblem" width="43" height="43">
+  <div>
+    <div class="experience-heading"><strong>Fudan University</strong></div>
+    <p class="experience-role">Research Intern · Mentor: Prof. Yuanbo Zhang</p>
+    <p>Material Screening Agent: evidence-oriented public-database retrieval and materials research workflows.</p>
+    <p><a href="https://github.com/chimeraHHH/materials_screening_agent_hermes" target="_blank" rel="noopener noreferrer">Project code ↗</a></p>
   </div>
 </div>
 
@@ -90,7 +100,7 @@ redirect_from:
 <p><strong>Sophos</strong><br><span>An agent-based educational animation engine that turns math and physics concepts into structured, animated explanations.</span></p>
 <p><strong><a href="https://github.com/chimeraHHH/verso-ai" target="_blank" rel="noopener noreferrer">VersoAI</a></strong><br><span>An AI storytelling workflow connecting script ideation, storyboard generation, and video creation.</span></p>
 <p><strong><a href="https://gallery.adventure-x.cn/projects/cmrzsxh9g001s02jirutu91me" target="_blank" rel="noopener noreferrer">Syncea</a></strong><br><span>An interactive installation connecting jellyfish motion sensing, generative music, and wearable interaction.</span></p>
-<p><a href="https://github.com/chimeraHHH/materials_screening_agent_hermes" target="_blank" rel="noopener noreferrer"><strong>Materials Screening Agent</strong></a> — <span>Evidence-oriented public-database retrieval and materials research workflows.</span></p>
+<p><a href="https://github.com/chimeraHHH/materials_screening_agent_hermes" target="_blank" rel="noopener noreferrer"><strong>Material Screening Agent</strong></a> — <span>Evidence-oriented public-database retrieval and materials research workflows.</span></p>
 <p><a href="https://github.com/SuperJJ007/CSSwitch" target="_blank" rel="noopener noreferrer"><strong>CSSwitch</strong></a> (<strong>490+ stars</strong>) — <span>Connects Claude Science to user-provided API endpoints.</span></p>
 
 <footer class="site-credit">© 2026 Yiming Hua · <span>Built with</span> <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a> (MIT License).</footer>
