@@ -63,6 +63,7 @@ redirect_from:
 </div>
 
 <h1 id="projects">🔬 Projects &amp; Open Source</h1>
+<p><strong>Self-Attention-Based High-Throughput Prediction Platform for Defect Properties in Two-Dimensional Materials</strong><br><span>Approved as a National-Level Key Project under the Undergraduate Innovation and Entrepreneurship Training Program (top 1% university-wide).</span></p>
 <p><strong>Sophos</strong><br><span>An agent-based educational animation engine that turns math and physics concepts into structured, animated explanations.</span></p>
 <p><strong><a href="https://github.com/chimeraHHH/verso-ai" target="_blank" rel="noopener noreferrer">VersoAI</a></strong><br><span>An AI storytelling workflow connecting script ideation, storyboard generation, and video creation.</span></p>
 <p><strong>Syncea</strong><br><span>An interactive installation connecting jellyfish motion sensing, generative music, and wearable interaction.</span></p>
