@@ -9,7 +9,6 @@ Live site: https://chimerahhh.github.io/
 - `_config.yml`: profile, email, affiliation, and site metadata.
 - `_pages/about.md`: English content and section structure.
 - `_data/navigation.yml`: navigation links.
-- `script.js`: Chinese translations and language preference.
 - `assets/css/custom.css`: reference-aligned additions to the template.
 - `assets/css/main.scss` and `_sass/`: original AcadHomepage theme.
 

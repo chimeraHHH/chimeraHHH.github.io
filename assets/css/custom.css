@@ -2,7 +2,6 @@
 html { scroll-behavior: smooth; }
 .page__content h1, .anchor { scroll-margin-top: 80px; }
 .author__avatar img { width: 175px; height: 175px; object-fit: cover; object-position: 50% 34%; }
-.chinese-name { display: block; font-size: .8em; font-weight: 400; margin-top: 5px; }
 .author__urls li, .author__urls a { white-space: normal; overflow-wrap: anywhere; }
 .experience { display: flex; gap: 15px; margin: 22px 0; }
 .institution-logo { width: 43px; height: 43px; object-fit: contain; flex-shrink: 0; }
@@ -19,12 +18,6 @@ html { scroll-behavior: smooth; }
 .paper-description { font-size: .9em; }
 .paper-box p { margin-bottom: .65em; }
 .site-credit { font-size: .75em; color: #777; margin-top: 45px; padding-top: 15px; border-top: 1px solid #eee; }
-.masthead__inner-wrap { display: flex; align-items: center; gap: 15px; }
-.masthead__menu { flex: 1; min-width: 0; }
-.language-toggle { flex-shrink: 0; border: 1px solid #eee; border-radius: 3px; padding: 4px 9px; background: #fff; color: #7a8288; font: inherit; font-size: .8em; }
-.language-toggle:hover { color: #494e52; background: #f2f3f3; }
-.language-toggle:focus-visible { outline: 2px solid #224b8d; outline-offset: 3px; }
-html[lang="zh-CN"] #chinese-introduction { display: none; }
 @media (max-width: 767px) {
   .experience-heading { flex-wrap: wrap; gap: 3px; }
   .paper-box .paper-box-image { max-width: 100%; width: 100%; }
@@ -33,7 +26,6 @@ html[lang="zh-CN"] #chinese-introduction { display: none; }
   .author__urls-wrapper { display: block; }
   .author__urls { display: block !important; position: static; box-shadow: none; border: none; background: transparent; padding: 0; }
   .author__avatar img { width: 75px; height: 75px; }
-  .masthead__inner-wrap { gap: 8px; }
   .greedy-nav { min-width: 0; }
 }
 @media (prefers-reduced-motion: reduce) {
