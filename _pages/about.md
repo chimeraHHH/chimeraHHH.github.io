@@ -70,6 +70,7 @@ redirect_from:
 <p><strong><a href="https://gallery.adventure-x.cn/projects/cmrzsxh9g001s02jirutu91me" target="_blank" rel="noopener noreferrer">Syncea</a></strong><br><span>An interactive installation connecting jellyfish motion sensing, generative music, and wearable interaction.</span></p>
 <ul>
   <li><a href="https://github.com/chimeraHHH/materials_screening_agent_hermes" target="_blank" rel="noopener noreferrer"><strong>Materials Screening Agent</strong></a> — <span>Evidence-oriented public-database retrieval and materials research workflows.</span></li>
+  <li><a href="https://github.com/SuperJJ007/CSSwitch" target="_blank" rel="noopener noreferrer"><strong>CSSwitch</strong></a> (<strong>490+ stars</strong>) — <span>Connects Claude Science to user-provided API endpoints.</span></li>
 </ul>
 
 <footer class="site-credit">© 2026 Yiming Hua · <span>Built with</span> <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a> (MIT License).</footer>
