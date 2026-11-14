@@ -51,6 +51,16 @@ redirect_from:
   </div>
 </div>
 
+<div class="paper-box" id="radarsim2act">
+  <div class="paper-box-image"><div><a href="/images/radarsim2act-robot-setup.png" target="_blank" rel="noopener noreferrer" title="View the RadarSim2Act robot setup"><img src="/images/radarsim2act-robot-setup.png" alt="RadarSim2Act robot setup with a millimeter-wave radar and top and front cameras" width="100%" loading="lazy"></a></div></div>
+  <div class="paper-box-text">
+    <p class="paper-title">RadarSim2Act: Closing the Radar Sim-to-Real Loop for Robotic Manipulation</p>
+    <p class="paper-authors">Ning Wang, Ruijie Zhang, <strong>Yiming Hua</strong>, Qian Zhang, Wei Wang</p>
+    <p class="paper-description">RadarSim2Act learns a radar-conditioned vision–language–action policy entirely in simulation from synthetic mmWave observations, then adapts to a real robot using a small set of vision-only demonstrations. Without real radar–action training data, it achieves 90% success across 10 manipulation tasks involving visually occluded targets on a 77 GHz radar-equipped robot and generalizes to unseen object categories.</p>
+    <p><a href="/images/radarsim2act-robot-setup.png" target="_blank" rel="noopener noreferrer">Full Figure ↗</a></p>
+  </div>
+</div>
+
 <h1 id="honors">🎖 Honors &amp; Competitions</h1>
 <ul>
   <li><strong>Luojia Talent Innovation Scholarship</strong>, Wuhan University, 2026 (one of only three undergraduate recipients university-wide).</li>

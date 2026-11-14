@@ -13,5 +13,6 @@
 - Profile photo: supplied local portfolio material.
 - Wuhan Hackathon and Wuhan University Blockchain Association logos: supplied by the site owner.
 - HoRT image: PNG rendering of the current manuscript method figure (`fig/hort_sensor_transport.svg`), preserving the complete original figure.
+- RadarSim2Act robot setup image: provided by the site owner.
 
 AcadHomepage credits Font Awesome (SIL OFL 1.1 and MIT), Minimal Mistakes (MIT), and AcademicPages (MIT). Their bundled notices are retained with the template sources.
