@@ -13,6 +13,7 @@ html { scroll-behavior: smooth; }
 .experience-role { color: #666; }
 .paper-box .paper-box-image img { width: 100%; height: auto; max-height: none; object-fit: contain; box-shadow: none; }
 .paper-box .paper-box-image { align-self: center; }
+.paper-box .paper-box-image > div { width: 100%; }
 .paper-title { font-weight: 600; }
 .paper-authors { font-size: .86em; }
 .paper-description { font-size: .9em; }
